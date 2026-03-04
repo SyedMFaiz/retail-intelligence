@@ -21,17 +21,6 @@ st.markdown("""
 }
 header, footer {visibility: hidden;}
 
-/* Hides the 'Built with Streamlit' Cloud link by its destination */
-a[href*="streamlit.io/cloud"] {
-    display: none !important;
-}
-
-/* Hides the entire bottom bar container */
-div[class^="_container_gzau3_"], 
-div[class^="_profileContainer_gzau3_"] {
-    display: none !important;
-}
-
 .block-container {
     padding-top: 0rem;
     padding-bottom: 0rem;

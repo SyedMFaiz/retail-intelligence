@@ -20,12 +20,7 @@ st.markdown("""
     color: white;
 }
 header, footer {visibility: hidden;}
-a[href="https://streamlit.io/cloud"] {
-    display: none !important;
-}
-a[href^="https://share.streamlit.io"] {
-    display: none !important;
-}
+
 .block-container {
     padding-top: 0rem;
     padding-bottom: 0rem;

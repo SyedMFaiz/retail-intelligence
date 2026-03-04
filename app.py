@@ -63,9 +63,6 @@ header, footer {visibility: hidden;}
     background: #00d4ff;
     border-radius: 10px;
 }
-#MainMenu {visibility: hidden;}
-footer {visibility: hidden;}
-header {visibility: hidden;}
 </style>
 """, unsafe_allow_html=True)
 
